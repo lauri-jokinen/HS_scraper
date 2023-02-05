@@ -7,4 +7,4 @@ Feel free to use the code however you want.
 First, we find the ID for the paper. The ID is then used with a hidden API that fetches the contents.
 
 ## About the paper ID
-The paper ID is *almost* always systematically incremented daily. However, a correct ID can be found at the regular website of the paper. This method is used in the code.
+The paper ID is *almost* always systematically incremented daily. The correct IDs can be found at the regular website of the paper. This method is applied in the code.
