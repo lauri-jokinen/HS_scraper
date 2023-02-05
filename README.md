@@ -1,5 +1,5 @@
 # HS_scraper
-These piece of code is used to fetch contents for a Helsingin Sanomat (HS) -paper for a particular date. The result is a well-organized json, including paper sections, article titles, urls and IDs.
+These piece of code is used to fetch contents for a Helsingin Sanomat (HS) -paper for a particular date. The result is a well-organized json, including paper sections, article titles, urls and IDs. Note, that article contents cannot be scraped with this code.
 
 Feel free to use the code however you want.
 
