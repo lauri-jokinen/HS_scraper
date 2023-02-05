@@ -3,8 +3,6 @@ These piece of code is used to fetch contents for a Helsingin Sanomat (HS) -pape
 
 Feel free to use the code however you want.
 
-The code is in Python.
-
 ## How does it work
 First, we find the ID for the paper. The ID is then used with a hidden API that fetches the contents.
 
