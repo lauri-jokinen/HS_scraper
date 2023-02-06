@@ -17,4 +17,4 @@ def paper_contents():
     paper_contents_hidden_api_url = "https://www.hs.fi/api/editions/{}/toc".format(ID)
     return requests.get(paper_contents_hidden_api_url).json()
 
-paper_contents()
+print(paper_contents())
